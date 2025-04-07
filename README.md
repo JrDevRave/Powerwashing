@@ -20,36 +20,24 @@
             <img src="https://via.placeholder.com/600x300.png?text=Truck+Power+Washing" alt="Truck Power Washing">
             <figcaption><a href="#" target="_blank">Replace with your truck image</a></figcaption>
           </figure>
-        </article>
-
-        <article>
           <h3>Concrete & Driveway Cleaning</h3>
           <p>Restore the original appearance of your concrete surfaces and driveways, removing oil stains, mildew, and grime buildup efficiently.</p>
           <figure>
             <img src="https://via.placeholder.com/600x300.png?text=Driveway+Cleaning" alt="Driveway Cleaning">
             <figcaption><a href="#" target="_blank">Replace with your concrete photo</a></figcaption>
           </figure>
-        </article>
-
-        <article>
           <h3>Deck and Patio Washing</h3>
           <p>Keep your outdoor spaces looking beautiful and safe with our gentle yet powerful deck and patio cleaning services.</p>
           <figure>
             <img src="https://via.placeholder.com/600x300.png?text=Deck+Washing" alt="Deck Washing">
             <figcaption><a href="#" target="_blank">Replace with deck photo</a></figcaption>
           </figure>
-        </article>
-
-        <article>
           <h3>Vinyl Siding Cleaning</h3>
           <p>Brighten and refresh your home’s exterior by removing mold, algae, and dirt from your vinyl siding.</p>
           <figure>
             <img src="https://via.placeholder.com/600x300.png?text=Siding+Cleaning" alt="Siding Cleaning">
             <figcaption><a href="#" target="_blank">Replace with siding photo</a></figcaption>
           </figure>
-        </article>
-
-        <article>
           <h3>Garage Door Power Washing</h3>
           <p>Give your garage doors a fresh, polished look by clearing away debris and weather-related residue with precision.</p>
           <figure>
